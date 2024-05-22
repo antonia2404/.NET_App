@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produse>
+	<Produs>
+		<Nume>Calculator</Nume>
+		<CodIntern>123456</CodIntern>
+		<Producator>HP</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Laptop</Nume>
+		<CodIntern>789012</CodIntern>
+		<Producator>Dell</Producator>
+		<Pret>2700</Pret>
+		<Categorie>Devices</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Mouse</Nume>
+		<CodIntern>345678</CodIntern>
+		<Producator>Logitech</Producator>
+		<Pret>200</Pret>
+		<Categorie>Mouseuri</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Monitor</Nume>
+		<CodIntern>901234</CodIntern>
+		<Producator>Samsung</Producator>
+		<Pret>800</Pret>
+		<Categorie>Periferice</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Router</Nume>
+		<CodIntern>567890</CodIntern>
+		<Producator>TP-Link</Producator>
+		<Pret>150</Pret>
+		<Categorie>Rețelistică</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Imprimantă</Nume>
+		<CodIntern>234567</CodIntern>
+		<Producator>Epson</Producator>
+		<Pret>300</Pret>
+		<Categorie>Periferice</Categorie>
+	</Produs>
+
+	<Serviciu>
+		<Nume>Asamblare PC</Nume>
+		<CodIntern>CodAPC</CodIntern>
+		<DescriereServiciu>Asamblare și configurare calculator personalizat</DescriereServiciu>
+		<Pret>150</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+
+	<Serviciu>
+		<Nume>Service Laptop</Nume>
+		<CodIntern>CodSL</CodIntern>
+		<DescriereServiciu>Service și mentenanță pentru laptopuri</DescriereServiciu>
+		<Pret>100</Pret>
+		<Categorie>Devices</Categorie>
+	</Serviciu>
+
+	<Serviciu>
+		<Nume>Instalare Software</Nume>
+		<CodIntern>CodIS</CodIntern>
+		<DescriereServiciu>Instalare și configurare software pentru calculator</DescriereServiciu>
+		<Pret>50</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+
+	<Serviciu>
+		<Nume>Curățare Mouse</Nume>
+		<CodIntern>CodCM</CodIntern>
+		<DescriereServiciu>Curățare și întreținere pentru mouse-uri</DescriereServiciu>
+		<Pret>20</Pret>
+		<Categorie>Mouseuri</Categorie>
+	</Serviciu>
+	
+</produse>
